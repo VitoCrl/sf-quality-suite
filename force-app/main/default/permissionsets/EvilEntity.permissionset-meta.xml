@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE PermissionSet [ <!ENTITY perm "ModifyAllData"> ]>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>EvilEntity</label>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>&perm;</name>
+    </userPermissions>
+</PermissionSet>
